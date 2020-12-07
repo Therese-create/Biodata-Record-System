@@ -1,0 +1,28 @@
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Biodata Record System.exe.config
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Biodata Record System.exe
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Biodata Record System.pdb
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Biodata Record System.xml
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.vbprojResolveAssemblyReference.cache
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Form1.resources
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Resources.resources
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.vbproj.GenerateResource.Cache
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.exe
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.xml
+c:\users\princess therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.pdb
+C:\Users\Princess Therese\documents\visual studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Form2.resources
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\MySql.Data.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Google.Protobuf.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Zstandard.Net.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\Renci.SshNet.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\System.Buffers.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\bin\Debug\MySql.Data.xml
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata Record System.vbproj.Biodata Record System.exe.config
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Form3.resources
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Form4.resources
+C:\Users\Princess Therese\Documents\Visual Studio 2015\Projects\Biodata Record System\Biodata Record System\obj\Debug\Biodata_Record_System.Form5.resources
